@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://www.ajaxpush.pro/';
+$config['base_url'] = 'http://www.ethereal.pro/';
 
 /*
 |--------------------------------------------------------------------------

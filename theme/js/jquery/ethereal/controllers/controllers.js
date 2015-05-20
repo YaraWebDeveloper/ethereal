@@ -2,7 +2,7 @@
 var ethereal = $(document).ethereal();
 //configurar mi ethereal
 ethereal.config({
-    urlView: "http://www.ajaxpush.pro/theme/js/jquery/ethereal/views/"
+    urlView: "http://www.ethereal.pro/theme/js/jquery/ethereal/views/"
 });
 //Creacion de controllador de lista
 //jQuery("#lista-nombres").empty();
